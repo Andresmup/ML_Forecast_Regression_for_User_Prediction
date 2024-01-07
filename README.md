@@ -8,6 +8,6 @@
 
 ✅ Ademas de una predicción mensual para la estación Grove ST Path para el mes de Septiembre y un analisis de rendimiento.
 
-💬 Gracias por visitar el repositorio. Si tienes alguna duda o sugerencia, no dudes en contactar. 💬
+💬 Gracias por visitar mi repositorio. Si tienes alguna duda o sugerencia, no dudes en contactar. 💬
 
 👨‍💻 Andrés Muñoz Pampillón
