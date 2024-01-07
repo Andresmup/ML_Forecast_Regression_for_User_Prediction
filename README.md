@@ -1,4 +1,4 @@
-👋 Bienvenido/a a mi proyecto final de Data Science que realice en Coderhouse
+👋 Bienvenido/a a mi proyecto de predicción de usuarios usando Machine Learning.
 
 🚲 Este proyecto de Data Science se centra en el análisis de los datos de uso del sistema de alquiler de bicicletas City Bank en la ciudad de New Jersey. 🚲
 
